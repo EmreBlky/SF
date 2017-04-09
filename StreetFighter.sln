@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreetFighter", "StreetFighter\StreetFighter\StreetFighter.csproj", "{F664203E-3F65-4B2B-88C2-AAD36C3639C1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "StreetFighterContent", "StreetFighter\StreetFighterContent\StreetFighterContent.contentproj", "{7DC176AE-B203-4F12-BED9-E0218AC185E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F664203E-3F65-4B2B-88C2-AAD36C3639C1}.Debug|x86.ActiveCfg = Debug|x86
+		{F664203E-3F65-4B2B-88C2-AAD36C3639C1}.Debug|x86.Build.0 = Debug|x86
+		{F664203E-3F65-4B2B-88C2-AAD36C3639C1}.Release|x86.ActiveCfg = Release|x86
+		{F664203E-3F65-4B2B-88C2-AAD36C3639C1}.Release|x86.Build.0 = Release|x86
+		{7DC176AE-B203-4F12-BED9-E0218AC185E0}.Debug|x86.ActiveCfg = Debug|x86
+		{7DC176AE-B203-4F12-BED9-E0218AC185E0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

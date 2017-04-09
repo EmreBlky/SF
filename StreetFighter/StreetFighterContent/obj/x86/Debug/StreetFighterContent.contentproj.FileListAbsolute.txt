@@ -1,0 +1,2 @@
+c:\users\maxi-90\documents\visual studio 2010\Projects\StreetFighter\StreetFighter\StreetFighterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighterContent\obj\x86\Debug\ResolveAssemblyReference.cache

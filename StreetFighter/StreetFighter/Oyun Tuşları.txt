@@ -1,0 +1,25 @@
+ÇIKIÞ - ESC
+Restart - F1
+
+########################
+RYU 1
+########################
+Atak1 -NumLock 4
+Atak2 -NumLock 6
+
+Sað Tuþ - Right Arrow
+Sol Tuþ - Left Arrow
+Zýplama - Up Arrow
+Eðilme - Down Arrow
+
+########################
+RYU 2
+########################
+Atak1 - B
+Atak2 - N
+
+
+Sað Tuþ - D
+Sol Tuþ - A
+Zýplama - W
+Eðilme - S

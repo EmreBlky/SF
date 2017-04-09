@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\stayRyu.png</Source>
+      <Name>images\stayRyu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\stayRyu.xnb</Output>
+      <Time>2012-04-13T17:35:08.4955594+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\jumpRyu.png</Source>
+      <Name>images\jumpRyu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\jumpRyu.xnb</Output>
+      <Time>2012-04-14T15:08:50.5910592+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\walkRyu.png</Source>
+      <Name>images\walkRyu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\walkRyu.xnb</Output>
+      <Time>2012-04-14T15:08:50.5910592+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\bg1.png</Source>
+      <Name>images\bg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\bg1.xnb</Output>
+      <Time>2012-04-14T17:55:37.9249815+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\RyuLean.png</Source>
+      <Name>images\RyuLean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\RyuLean.xnb</Output>
+      <Time>2012-04-24T19:11:32.4209036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\atk2.png</Source>
+      <Name>images\atk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\atk2.xnb</Output>
+      <Time>2012-04-25T16:16:30.1224036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tekmeRyu.png</Source>
+      <Name>images\tekmeRyu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\tekmeRyu.xnb</Output>
+      <Time>2012-04-25T16:21:46.5097636+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\dead.png</Source>
+      <Name>images\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\dead.xnb</Output>
+      <Time>2012-04-25T16:33:01.784568+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\atk2_1.png</Source>
+      <Name>images\atk2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\atk2_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.5927943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\dead_1.png</Source>
+      <Name>images\dead_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\dead_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.5927943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\JumpRyu_1.png</Source>
+      <Name>images\JumpRyu_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\JumpRyu_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.5927943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\RyuLean_1.png</Source>
+      <Name>images\RyuLean_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\RyuLean_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.6027943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\stayRyu_1.png</Source>
+      <Name>images\stayRyu_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\stayRyu_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.6027943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tekmeRyu_1.png</Source>
+      <Name>images\tekmeRyu_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\tekmeRyu_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.6027943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\walkRyu_1.png</Source>
+      <Name>images\walkRyu_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\walkRyu_1.xnb</Output>
+      <Time>2012-04-25T17:15:34.6027943+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ryu.png</Source>
+      <Name>images\ryu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\ryu.xnb</Output>
+      <Time>2012-04-26T11:44:26.2893244+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ryu2.png</Source>
+      <Name>images\ryu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\ryu2.xnb</Output>
+      <Time>2012-04-26T11:44:26.2893244+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\hbar.png</Source>
+      <Name>images\hbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\hbar.xnb</Output>
+      <Time>2012-04-26T11:59:23.4077248+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\hbar2.png</Source>
+      <Name>images\hbar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\hbar2.xnb</Output>
+      <Time>2012-04-26T12:03:53.9755875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\logo.png</Source>
+      <Name>images\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\images\logo.xnb</Output>
+      <Time>2012-04-29T20:00:36.494521+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2012-04-14T08:19:15.429779+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial2.spritefont</Source>
+      <Name>Arial2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Arial2.xnb</Output>
+      <Time>2012-04-26T18:55:34.2223298+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\kick_1.wav</Source>
+      <Name>Sound\kick_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Sound\kick_1.xnb</Output>
+      <Time>2012-04-29T15:29:46.3703084+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\punch_1.wav</Source>
+      <Name>Sound\punch_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Sound\punch_1.xnb</Output>
+      <Time>2012-04-29T15:29:46.3723085+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\fon.wav</Source>
+      <Name>Sound\fon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Sound\fon.xnb</Output>
+      <Time>2012-04-29T16:49:03.4776095+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\raund_1.wav</Source>
+      <Name>Sound\raund_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\Sound\raund_1.xnb</Output>
+      <Time>2012-04-29T21:28:15.4765215+03:00</Time>
+    </Item>
+    <Item>
+      <Source>video\sf2_1.wmv</Source>
+      <Name>video\sf2_1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\video\sf2_1.xnb</Output>
+      <Extra>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\video\sf2_1.wmv</Extra>
+      <Time>2012-04-29T19:13:09.6645881+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents and Settings\emin_1\Desktop\StreetFighterSource\StreetFighter\StreetFighter\StreetFighter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-11T16:46:33.1875+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
